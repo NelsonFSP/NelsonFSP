@@ -1,7 +1,7 @@
 # Hi guys 👋
-<p align="center">
+
     ![image info](./images/hello.png)
-</p>
+
 
 ## I'm here to learning, colaborate and fun..... 
 
