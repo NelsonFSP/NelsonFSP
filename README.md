@@ -9,4 +9,4 @@
 
 ### :smiley: I’m currently learning english, ok i don't have the best language habilities, but i'm has working so hard to understand 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonFSP)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonFSP)
