@@ -1,6 +1,6 @@
 # Hi guys 👋
 
-    ![image info](./images/hello.png)
+![image info](./images/hello.png)
 
 
 ## I'm here to learning, colaborate and fun..... 
