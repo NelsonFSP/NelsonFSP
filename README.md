@@ -1,12 +1,16 @@
-# Hi guys 👋
-<p align="center">
-    ![image info](./images/hello.png)
-</p>
 
-## I'm here to learning, colaborate and fun..... 
+<html>
+  <head>
+        <div> 
+        <p style="text-align:center"><img src="./images/hello.png" ></P>
+        </div>
+  </head>
+  <body>
+    <h1 style = > Hi guys 👋 </h1>
+    <h2> I'm here to learning, colaborate and fun..... </h2>
+    <h3> I have 28y, 3 years as a COBOL developer which a year on the biggest bank in latam as a Jr Software Engineer (COBOL), and now with both JAVA + COBOL</h3>
+    <h3> I’m currently learning english, ok i don't have the best language habilities, but i'm has working so hard to understand</h3> 
+   </body>
+</html>
 
-### :bowtie: I have 28y, only 3 years as a COBOL developer which a year on the biggest bank in latam as a Jr Software Engineer (COBOL), and now with both JAVA + COBOL
-
-### :smiley: I’m currently learning english, ok i don't have the best language habilities, but i'm has working so hard to understand 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonFSPa&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonFSP)
